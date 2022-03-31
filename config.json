@@ -1,0 +1,38 @@
+{
+  "options": {
+    "paths": {
+      "root": "",
+      "fonts": "fonts",
+      "styles": "styles",
+      "mbtiles": ""
+    },
+	"frontPage": true
+  },
+  "styles": {
+    "osm-bright": {
+      "style": "osm-bright/style-local.json",
+	  "serve_rendered":false
+    },
+    "maptiler-basic": {
+      "style": "maptiler-basic/style-local.json",
+	  "serve_rendered":false
+    },
+    "dark-matter": {
+      "style": "dark-matter/style-local.json",
+	  "serve_rendered":false
+    },
+    "positron-gl": {
+      "style": "positron-gl/style-local.json",
+	  "serve_rendered":false
+    },
+    "maptiler-3d": {
+      "style": "maptiler-3d/style-local.json",
+	  "serve_rendered":false
+    }
+  },
+  "data": {
+    "europe": {
+      "mbtiles": "europe.mbtiles"
+    }
+  }
+}
