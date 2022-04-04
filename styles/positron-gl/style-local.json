@@ -24,7 +24,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "mbtiles://{europe}"
+      "url": "mbtiles://{toulouse}"
     }
   },
   "sprite": "{styleJsonFolder}/sprite",

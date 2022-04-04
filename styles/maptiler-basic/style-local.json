@@ -12,7 +12,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "mbtiles://{europe}"
+      "url": "mbtiles://{toulouse}"
     }
   },
   "glyphs": "{fontstack}/{range}.pbf",

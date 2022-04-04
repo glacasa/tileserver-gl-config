@@ -31,8 +31,8 @@
     }
   },
   "data": {
-    "europe": {
-      "mbtiles": "europe.mbtiles"
+    "toulouse": {
+      "mbtiles": "2017-07-03_france_toulouse.mbtiles"
     }
   }
 }
